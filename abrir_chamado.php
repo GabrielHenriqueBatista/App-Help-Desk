@@ -9,7 +9,7 @@
       .card-abrir-chamado {
         padding: 30px 0 0 0;
         width: 100%;
-        margin: 0 auto;
+        margin: 0 auto ;
       }
     </style>
   </head>
