@@ -1,4 +1,6 @@
-<?php require_once "access_validator.php"; ?>
+<?php require_once "access_validator.php"; 
+ 
+?>
 <html>
 
 <head>
